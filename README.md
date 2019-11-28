@@ -20,3 +20,9 @@ General Sibling ~ (second element can come any after wards but same parent)
 Child > (direct child of the first element)
 Descendant ' ' (any child of the first element)
 ```
+
+## Revision
+
+1. Important properties to remember
+
+![]("resources/images/somebasicproperties.png")
