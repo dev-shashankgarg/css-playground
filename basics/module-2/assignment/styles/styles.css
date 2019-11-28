@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+.div-1 {
+    padding: 20px 15px 10px 5px;
+    border: dashed 2px black;
+    margin: 20px 10px 15px 5px;
+    height: 300px;
+    width: 48%;
+    display: inline-block;
+}
+
+.div--ext1 {
+    /* display: none; */
+    visibility: hidden;
+}
+
+.div--ext2:hover {
+    background: wheat;
+}
