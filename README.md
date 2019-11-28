@@ -26,5 +26,5 @@ Descendant ' ' (any child of the first element)
 1. Important properties to remember
 
 <hr>
-![](resources/images/somebasicproperties.png)
+![img](resources/images/somebasicproperties.png)
 <hr>
